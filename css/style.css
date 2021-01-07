@@ -1,0 +1,41 @@
+.box{
+	min-height: 50px;
+	background-color: cyan;
+	margin-bottom: 5px;
+}
+.c1{
+	background-color: red;
+}
+.c2{
+	background-color: lime;
+}
+.c3{
+	background-color: blue;
+}
+.c4{
+	background-color: black;
+}
+.c5{
+	background-color: green;
+}
+.c6{
+	background-color: aqua;
+}
+.c7{
+	background-color: gray;
+}
+.c8{
+	background-color: pink;
+}
+.c9{
+	background-color: #636366;
+}
+.c10{
+	background-color: #6a6a6a;
+}
+.c11{
+	background-color: #ff3333;
+}
+.c12{
+	background-color: #999999;
+}
